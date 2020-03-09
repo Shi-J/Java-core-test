@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Java_Class" />
+        <module name="Java_NetWork" />
+        <module name="Java_jdk8" />
+        <module name="Java_Arrs" />
+        <module name="Java_Io" />
+        <module name="Java_String" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Java_NetWorl" target="1.8" />
+      <module name="SSM" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
